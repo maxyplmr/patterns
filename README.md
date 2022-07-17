@@ -3,8 +3,8 @@
 
 ### Декоратор / Decorator
 
-Используйте шаблон Decorator, когда вам нужно иметь возможность назначать дополнительное поведение объектам во время выполнения, 
-не нарушая код, использующий эти объекты.
+Позволяет добавлять объектам новую функциональность, 
+расширяемость без изменений исходника с помощью обертывания.
 
-Use the Decorator pattern when you need to be able to assign extra behaviours 
-to objects at runtime without breaking the code that uses these objects.
+Allows you to add new functionality to objects,
+extensibility without changing the source using wrapping.
